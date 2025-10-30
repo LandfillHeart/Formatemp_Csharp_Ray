@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d19b3596bab334b42aed57429259473c, type: 3}
+  m_Name: Paladin
+  m_EditorClassIdentifier: Assembly-CSharp::DropdownCharacterData
+  character: 2
+  Name: Paladino
+  Icon: {fileID: 21300000, guid: dd8060a45b5c74942b7456f01fa4762e, type: 3}
